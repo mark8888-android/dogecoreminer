@@ -1,0 +1,6 @@
+{
+  "name": "Dogecoin Core Intranet Mining Game",
+  "description": "Offline intranet Dogecoin mining game with real Dogecoin Core v1.14.9 RPC integration, game pool wallet, payout system, and downloadable offline installer package.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
